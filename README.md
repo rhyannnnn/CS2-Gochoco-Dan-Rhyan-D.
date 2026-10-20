@@ -4,7 +4,7 @@
 This program calculates the difference of the number of the meter reading from the previous to present and charging through a fixed rate.
 
 ## Version 1 - Original code without input validation
-- Input: Accepts a name and the previous and present meter reading
+- Input: Accepts a name and the previous and present meter reading. must repeat if the inputs are invalid
 - Process: Calculates and displays the amount to pay
 - Output:  amount to pay
 - Validation rules
